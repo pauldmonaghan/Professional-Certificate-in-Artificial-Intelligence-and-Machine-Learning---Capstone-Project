@@ -44,6 +44,8 @@ Function 8: Machine learning model performance
 
 My model performed best for function 4, in part due to it having many local optima, making it more likely to find these optima via random search. The latest observation of this function via this method was 0.25.
 
+The model performed less well for the other functions as they were less susceptible to the random search methodology.
+
 ## Limitations
 
 The random search aspect of my model is only as precise as the variance assigned to it (ie, how limited its search radius is by a user).

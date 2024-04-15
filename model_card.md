@@ -38,7 +38,7 @@ Function 7: Machine learning model performance
 
 Function 8: Machine learning model performance
 
-**Model Architecture:** Describe the model architecture you’ve used
+**Model Architecture:**
 
 ## Performance
 

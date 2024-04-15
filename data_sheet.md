@@ -15,13 +15,20 @@ Unclear to the author of this datasheet, though the dataset is assumed to have b
 
 - What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?
 
-Function 1's data represents sources of radiation in some area.
+Function 1's data represents sources of radiation in some area
+
 Function 2's data represents a noisy machine learning model
+
 Function 3's data represents how a given drug adversely affects individuals
+
 Function 4's data represents a business's online sales
+
 Function 5's data represents the yield of a chemical process after processing in some factory
+
 Function 6's data represents scores given to metrics used to measure the standard of a cake by an expert tester
+
 Function 7's data represents a popular and frequently used machine learning model
+
 Function 8's data represents a high-dimension search space (8 dimensions to be precise)
 
 - How many instances of each type are there?

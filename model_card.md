@@ -2,26 +2,40 @@
 
 ## Model Description
 
-**Input:** Describe the inputs of your model
+**Input:**
 
 Function 1: Grid points in a square area
+
 Function 2: Noisy data
+
 Function 3: Drug/human attributes
+
 Function 4: Metrics relating to online sales
+
 Function 5: Metrics pertaining to possible chemicals to use in a chemical reaction
+
 Function 6: Rating statistics pertaining to flavor, consistency, calories, waste and cost of cakes
+
 Function 7: Data to used alongside 6 Hyperparameters of a popular and frequently used machine learning model
+
 Function 8: Data to used alongside 8 Hyperparameters of an unknown machine learning model
 
-**Output:** Describe the output(s) of your model
+**Output:**
 
 Function 1: Sources of radiation
+
 Function 2: Unknown machine learning model
+
 Function 3: Effect on a given human
+
 Function 4: Number of online sales
+
 Function 5: Yield statistics based on given chemical combinations reacting with each other
+
 Function 6: Overall cake score
+
 Function 7: Machine learning model performance
+
 Function 8: Machine learning model performance
 
 **Model Architecture:** Describe the model architecture you’ve used
